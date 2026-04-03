@@ -1,3 +1,4 @@
+
 #  Customer Service Chatbot (AI Powered)
 
 An intelligent Customer Support Chatbot built using NLP and Streamlit that can handle user queries, provide instant responses, and maintain conversation history.  
@@ -25,69 +26,11 @@ Designed as a scalable solution for automating customer service operations.
 - SpeechRecognition (Voice Input)  
 - Pandas (Data Handling)  
 
-
-# 🤖 Customer Service Chatbot (AI Powered)
-
-An intelligent Customer Support Chatbot built using NLP and Streamlit that can handle user queries, provide instant responses, and maintain conversation history.  
-
-Designed as a scalable solution for automating customer service operations.
-
----
-
-## 🚀 Features
-
-- 💬 Real-time Chat Interface  
-- 🎤 Voice Input (Speech-to-Text)  
-- 🧠 Context Memory (Chat History Storage)  
-- 📊 Admin Dashboard (Analytics & Logs)  
-- ⚡ Fast Response using NLP (NLTK)  
-- 🌐 Clean Web UI using Streamlit  
-
----
-
-## 🧠 Tech Stack
-
-- Python 🐍  
-- NLTK (Natural Language Processing)  
-- Streamlit (Frontend UI)  
-- SpeechRecognition (Voice Input)  
-- Pandas (Data Handling)  
-
----
-
-## 📂 Project Structure
-# 🤖 Customer Service Chatbot (AI Powered)
-
-An intelligent Customer Support Chatbot built using NLP and Streamlit that can handle user queries, provide instant responses, and maintain conversation history.  
-
-Designed as a scalable solution for automating customer service operations.
-
----
-
-## 🚀 Features
-
-- 💬 Real-time Chat Interface  
-- 🎤 Voice Input (Speech-to-Text)  
-- 🧠 Context Memory (Chat History Storage)  
-- 📊 Admin Dashboard (Analytics & Logs)  
-- ⚡ Fast Response using NLP (NLTK)  
-- 🌐 Clean Web UI using Streamlit  
-
----
-
-## 🧠 Tech Stack
-
-- Python 🐍  
-- NLTK (Natural Language Processing)  
-- Streamlit (Frontend UI)  
-- SpeechRecognition (Voice Input)  
-- Pandas (Data Handling)  
-
 ---
 
 **Voice Feature**
 
-- Click microphone button 🎤
+- Click microphone button 
 - Speak your query
 - Bot converts speech → text → response
 
@@ -121,4 +64,4 @@ Designed as a scalable solution for automating customer service operations.
 - E-commerce Assistance
 - Helpdesk Systems
 
-## 📂 Project Structure
+
