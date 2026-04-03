@@ -1,0 +1,116 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi", "hello", "hey", "good morning", "good evening", "is anyone there?", "greetings", "need help"
+      ],
+      "responses": [
+        "Hello! I'm Nova, your Support AI. How can I help you today?",
+        "Hi there! Nova here. What can I assist you with?",
+        "Greetings! I am Nova. How can I make your day better?",
+        "Hey! I'm Nova, your virtual assistant. What do you need help with today?"
+      ]
+    },
+    {
+      "tag": "identity",
+      "patterns": [
+        "who are you", "what is your name", "are you a bot", "are you human", "what should i call you", "who am i speaking to"
+      ],
+      "responses": [
+        "I'm Nova, an AI support assistant designed to help you quickly and efficiently!",
+        "You can call me Nova! I'm a virtual assistant here to make your life easier.",
+        "I am Nova, your dedicated automated support agent. I'm not human, but I'm learning every day!"
+      ]
+    },
+    {
+      "tag": "capabilities",
+      "patterns": [
+        "what can you do", "help", "how can you help me", "what are your features", "what do you know", "options"
+      ],
+      "responses": [
+        "I can help you track orders, check refund policies, fix billing issues, or connect you to a human agent. What do you need?",
+        "As your assistant, I can track shipments, process returns, and answer general account questions. Just ask!",
+        "I'm equipped to handle order tracking, refunds, and general support. If I don't know the answer, I can grab a human for you."
+      ]
+    },
+    {
+      "tag": "order",
+      "patterns": [
+        "order", "track", "delivery", "where is my package", "order status", "track my order", "has it shipped"
+      ],
+      "responses": [
+        "I can definitely help you track that. Please provide your order ID.",
+        "To check the status of your delivery, I'll need your order number.",
+        "Let's find your package! Could you share your 9-digit order ID with me?",
+        "I'd be happy to check your order status. Just paste your order ID below."
+      ]
+    },
+    {
+      "tag": "refund",
+      "patterns": [
+        "refund", "return", "i want my money back", "how to return", "exchange", "cancel my order"
+      ],
+      "responses": [
+        "I understand you'd like a refund. Once processed, refunds typically take 5-7 working days to appear in your account.",
+        "We're sorry to hear you want to return an item. Our standard refund processing time is 5-7 business days.",
+        "I can help with returns! Please note that refunds are usually credited back to your original payment method within 5-7 days."
+      ]
+    },
+    {
+      "tag": "password_reset",
+      "patterns": [
+        "forgot password", "reset password", "change my password", "can't login", "locked out"
+      ],
+      "responses": [
+        "I can help with that. To reset your password, please click the 'Forgot Password' link on the login page.",
+        "Locked out? No worries. You can trigger a password reset email from our main login screen."
+      ]
+    },
+    {
+      "tag": "business_hours",
+      "patterns": [
+        "what are your hours", "when are you open", "are you open", "operating hours", "time"
+      ],
+      "responses": [
+        "I am available 24/7! However, our human support team is online from 9:00 AM to 6:00 PM EST, Monday through Friday.",
+        "You can chat with me anytime! If you need a human agent, they are available Monday-Friday, 9 AM to 6 PM EST."
+      ]
+    },
+    {
+      "tag": "talk_to_human",
+      "patterns": [
+        "real person", "human", "agent", "customer service", "operator", "speak to a person", "talk to human"
+      ],
+      "responses": [
+        "I'm connecting you to a human support agent now. Please hold on for just a moment.",
+        "Let me get a customer service representative to help you with this.",
+        "I'll transfer you to one of our human specialists right away."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you", "thanks", "appreciate it", "thanks a lot", "awesome", "perfect", "good bot"
+      ],
+      "responses": [
+        "You're very welcome! Let me know if you need anything else.",
+        "Happy to help!",
+        "Anytime! I'm always here if you need me.",
+        "It's my pleasure."
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": [
+        "bye", "goodbye", "see ya", "have a good one", "catch you later", "close"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "Thanks for reaching out to us. Take care!",
+        "Bye for now! Let Nova know if you need help in the future.",
+        "Have a wonderful rest of your day. Goodbye!"
+      ]
+    }
+  ]
+}
